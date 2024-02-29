@@ -2,8 +2,11 @@
 
 
 NAME: VISHNU KM
+
 DEPARTMENT: AI/ML
+
 ROLL NUM: 212223240185
+
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
  
